@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación de gé
 Los datos se basan en playlist publicas creadas por usuarios de Spotify, estas se almacenan en la carpeta llamada "Ana Play Fun UdeA".
 Se agrega archivo lista_playlist.csv con la informacion de los generos usados.
 
-En el archivo "Generos Musicales.zip" se encontraran todos los registros utilizados en el proyecto. 
+En el archivo "GenerosMusicalesIni.zip" se encontraran todos los registros utilizados en el proyecto. 
 
 -----------------------------------------------------------------------------------------------
 
